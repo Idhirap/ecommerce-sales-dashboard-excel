@@ -1,7 +1,8 @@
 # 📊 Ecommerce Sales Analysis Dashboard | Microsoft Excel
 
 ## 📌 Overview
-This project is an interactive Ecommerce Sales Analysis Dashboard built in Microsoft Excel. It provides insights into sales performance, profit, quantity sold, order count, profit margin, category-wise performance, and state-wise sales using PivotTables, PivotCharts, Slicers, and Sparklines.
+
+This project is an interactive **Ecommerce Sales Analysis Dashboard** built in **Microsoft Excel** to analyze key business metrics, including Sales, Profit, Quantity, Number of Orders, Profit Margin, category-wise performance, and state-wise sales. The dashboard uses PivotTables, PivotCharts, Slicers, and Sparklines to deliver interactive business insights.
 
 ---
 
@@ -37,17 +38,17 @@ This project is an interactive Ecommerce Sales Analysis Dashboard built in Micro
 - Sparklines for KPI trends
 
 - Sales & Profit by Month – Combo Chart (Dual Axis)
-  Sales → Clustered Column
-  Profit → Area Chart
+  - Sales – Clustered Column Chart
+  - Profit – Area Chart
 
 - Category-wise Profit
   - Waterfall Chart
 
-- Category-wise Sales Share
+- Category-wise Sales Share (%)
   - Doughnut Chart
 
 - Sales by State
-  - Filled Map Chart
+  - Map Chart
 
 - Top 5 Subcategories by Sales
   - Horizontal Bar Chart
@@ -66,15 +67,10 @@ This project is an interactive Ecommerce Sales Analysis Dashboard built in Micro
 - PivotCharts
 - Slicers
 - Sparklines
+- Combo Chart (Dual Axis)
+- Waterfall Chart
+- Map Chart
 - Calculated Field (Profit Margin)
-
----
-
-## 📁 Project Files
-
-- Ecommerce Sales Analysis.xlsx
-- Dashboard Screenshot.png
-- README.md
 
 ---
 
@@ -87,10 +83,4 @@ This project is an interactive Ecommerce Sales Analysis Dashboard built in Micro
 - Working with multiple chart types
 - Dashboard formatting and layout design
 
----
 
-## 👤 Author
-
-**Paridhi Singhal**
-
-Aspiring Data Analyst | Excel | SQL | Power BI | Tableau
