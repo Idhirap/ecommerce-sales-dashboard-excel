@@ -69,6 +69,7 @@ This project is an interactive **Ecommerce Sales Analysis Dashboard** built in *
 - Sparklines
 - Combo Chart (Dual Axis)
 - Waterfall Chart
+- Doughnut Chart
 - Map Chart
 - Calculated Field (Profit Margin)
 
