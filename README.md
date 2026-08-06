@@ -7,7 +7,7 @@ This project is an interactive Ecommerce Sales Analysis Dashboard built in Micro
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard Screenshot.png)
+![Dashboard Screenshot](Dashboard%20Screenshot.png)
 
 ---
 
